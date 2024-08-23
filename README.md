@@ -1,0 +1,2 @@
+# djangopractice
+django practice app
